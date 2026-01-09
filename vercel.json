@@ -1,0 +1,19 @@
+{
+    "redirects": [
+        {
+            "source": "/asset-tracker",
+            "has": [
+                {
+                    "type": "query",
+                    "key": "category"
+                },
+                {
+                    "type": "query",
+                    "key": "id"
+                }
+            ],
+            "destination": "https://forms.office.com/r/8XpeiLEN0C?ra61bc8d71a464ac8973d39551539939f=:category&r270d70573752455f8ecd510f517d5f0e=:id",
+            "permanent": false
+        }
+    ]
+}
